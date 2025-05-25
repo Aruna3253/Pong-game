@@ -1,0 +1,1 @@
+Two players (or one player vs AI) control paddles to hit a ball back and forth across the screen. The goal is to prevent the ball from passing your paddle while trying to score by making it pass the opponent’s paddle.
